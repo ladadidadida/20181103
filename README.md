@@ -10,6 +10,8 @@
 >>> <br>见./blogs/VAE.md
 >>> - Wasserstein auto-encoder
 >>> <br>见./blogs/VAE.md
+>>> - Autoencoding beyond pixels using a learned similarity metric
+>>>  <br>待复现。
 >> - 半监督 ：
 >>> - semi-supervised learning with generative adversarial networks<br>在训练判别器(分类器)的时候，使用生成器生成的假样本来填充了原本类与类之间的间隔，以此来降低对抗样本被错误分类的几率，从而提高模型的泛化性能。
 
